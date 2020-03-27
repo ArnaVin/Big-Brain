@@ -1,5 +1,5 @@
 # Big-Brain
-Some random shit which i find interesting ~~
+*Some random stuff which i find interesting*
 
-First Question ---> Choose any number from 0 to 1. Now calculate pi //
-Answer ---> RandomPi.py
+**1. Choose any number from 0 to 1, now calculate pi.**
+>Random.py
