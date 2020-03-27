@@ -5,5 +5,4 @@
 ```
 Random.py
 ```
-![Graph for Random.py]
-(https://github.com/ArnaVin/Big-Brain/blob/master/Images/pii.png)
+![Graph for Random.py](/Images/pii.png)
