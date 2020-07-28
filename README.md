@@ -7,4 +7,4 @@ Pi is equal to (4)x(Random points in the Circle)/(Random points in the Square)
 ```
 Random.py
 ```
-![Graph for Random.py](/Images/pii.png)
+![Graph for RandomPi.py](/Images/pii.png)
